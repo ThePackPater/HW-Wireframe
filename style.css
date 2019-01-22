@@ -38,7 +38,7 @@ nav {
 
 section {
     
-    padding: 0%;
+    padding: 1%;
     float: left;
     height: 55%;
     width: 45%;
@@ -78,10 +78,10 @@ p {
 
 aside{
 
-    padding: 0%;
+    padding: 1%;
     float: left;
     width: 32%;
-    height: 55%;
+    height: 56%;
     margin-left: 1%;
     margin-bottom: 1%;
 }
